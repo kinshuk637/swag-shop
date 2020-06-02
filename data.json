@@ -1,0 +1,5 @@
+db.products.insert({"price":50, "title":"Vault Boy", "imgURL":"https://s3-us-west-2.amazonaws.com/devslopesvideo/vault.JPG"})
+db.products.insert({"price":129.50, "title":"Link's Shield", "imgURL":"https://s3-us-west-2.amazonaws.com/devslopesvideo/shield.png"})
+db.products.insert({"price":400, "title":"Lancer", "imgURL":"https://s3-us-west-2.amazonaws.com/devslopesvideo/lancer.jpg"})
+db.products.insert({"title":"Samsung Galaxy m11", "price": 226.18, "imgURL": "https://images.jansatta.com/2020/06/samsung-galaxy-m11-smartphone-620x400.jpg"})
+db.products.insert({"title":"Frontech GamePad", "price": 18.50, "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41dP2onfkHL._SX425_.jpg"})
